@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mazen-sokkar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/MazenSokar/" title="HackerRank Profile"><img width="22" src="images/LeetCode.png"> LeetCode</a></code>
+  <code><a href="https://leetcode.com/u/MazenSokar/" title="HackerRank Profile"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
   <code><a href="https://x.com/Sokkar_02" title="Instagram Profile"><img width="22" src="images/X.svg"> X</a></code>
   <code><a href="https://www.instagram.com/mazensokar_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -39,7 +39,7 @@
   <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
@@ -88,8 +88,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/KhaledGhazy1233/SWD5_S1_Team4" title="TechXpress"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MazenSokkar&repo=SWD5_S1_Team4&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/mahfeshar/Bank-DB-project" title="Bank-DB-project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MazenSokkar&repo=Bank-DB-project&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/KhaledGhazy1233/SWD5_S1_Team4" title="TechXpress"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=KhaledGhazy1233&repo=SWD5_S1_Team4&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/mahfeshar/Bank-DB-project" title="Bank-DB-project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mahfeshar&repo=Bank-DB-project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
