@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/mazen-sokkar/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/u/MazenSokar/" title="HackerRank Profile"><img width="22" src="images/leetcode.png"> LeetCode</a></code>
-  <code><a href="https://x.com/Sokkar_02" title="Instagram Profile"><img width="22" src="images/X.svg"> X</a></code>
+  <code><a href="https://x.com/Sokkar_02" title="Instagram Profile"><img width="22" src="images/X.png"> X</a></code>
   <code><a href="https://www.instagram.com/mazensokar_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
@@ -34,16 +34,16 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
-  <code><img title="SQL" height="25" src="images/sql.svg"></code>
-  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
+  <code><img title="Dart" height="25" src="images/dart.png"></code>
+  <code><img title="SQL" height="25" src="images/sql.png"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="MSServer" height="25" src="images/sqlserver.svg"></code>
+  <code><img title="MSServer" height="25" src="images/sqlserver.png"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
